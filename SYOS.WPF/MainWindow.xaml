@@ -1,0 +1,25 @@
+﻿<Window x:Class="SYOS.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:SYOS.WPF.Views"
+        Title="SYOS Management System" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Item Management">
+                <views:ItemManagementView x:Name="ItemManagementView"/>
+            </TabItem>
+            <TabItem Header="Stock Management">
+                <views:StockManagementView x:Name="StockManagementView"/>
+            </TabItem>
+            <TabItem Header="Shelf Management">
+                <views:ShelfManagementView x:Name="ShelfManagementView"/>
+            </TabItem>
+            <TabItem Header="Bill Management">
+                <views:BillManagementView x:Name="BillManagementView"/>
+            </TabItem>
+            <TabItem Header="Reports">
+                <views:ReportView x:Name="ReportView"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

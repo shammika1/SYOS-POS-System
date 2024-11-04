@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOSSytem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{024DEB02-656A-4264-AE3D-DAFC2E3B696E}|..\\SYOS.WPF\\SYOS.WPF.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.wpf\\viewmodels\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024DEB02-656A-4264-AE3D-DAFC2E3B696E}|..\\SYOS.WPF\\SYOS.WPF.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.wpf\\views\\itemmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024DEB02-656A-4264-AE3D-DAFC2E3B696E}|..\\SYOS.WPF\\SYOS.WPF.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.wpf\\services\\signalrclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024DEB02-656A-4264-AE3D-DAFC2E3B696E}|..\\SYOS.WPF\\SYOS.WPF.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.wpf\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024DEB02-656A-4264-AE3D-DAFC2E3B696E}|..\\SYOS.WPF\\SYOS.WPF.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.wpf\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024DEB02-656A-4264-AE3D-DAFC2E3B696E}|..\\SYOS.WPF\\SYOS.WPF.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.wpf\\views\\itemmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B966019-79AB-4961-9BC8-5DAE101DDC6E}|..\\SYOS.Server\\SYOS.Server.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.server\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B966019-79AB-4961-9BC8-5DAE101DDC6E}|..\\SYOS.Server\\SYOS.Server.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.server\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B966019-79AB-4961-9BC8-5DAE101DDC6E}|..\\SYOS.Server\\SYOS.Server.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.server\\singleton\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B966019-79AB-4961-9BC8-5DAE101DDC6E}|..\\SYOS.Server\\SYOS.Server.csproj|c:\\users\\shammika\\source\\repos\\syos-pos\\syos.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalRClient.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Services\\SignalRClient.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.WPF\\Services\\SignalRClient.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Services\\SignalRClient.cs",
+              "RelativeToolTip": "..\\SYOS.WPF\\Services\\SignalRClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:50:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Command\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.WPF\\Command\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Command\\RelayCommand.cs",
+              "RelativeToolTip": "..\\SYOS.WPF\\Command\\RelayCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:50:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemManagementView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Views\\ItemManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.WPF\\Views\\ItemManagementView.xaml.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Views\\ItemManagementView.xaml.cs",
+              "RelativeToolTip": "..\\SYOS.WPF\\Views\\ItemManagementView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:49:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemManagementView.xaml",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Views\\ItemManagementView.xaml",
+              "RelativeDocumentMoniker": "..\\SYOS.WPF\\Views\\ItemManagementView.xaml",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Views\\ItemManagementView.xaml",
+              "RelativeToolTip": "..\\SYOS.WPF\\Views\\ItemManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T05:49:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\VIewModels\\ItemViewModel.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.WPF\\VIewModels\\ItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\VIewModels\\ItemViewModel.cs",
+              "RelativeToolTip": "..\\SYOS.WPF\\VIewModels\\ItemViewModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:49:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.Server\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Services\\ItemService.cs",
+              "RelativeToolTip": "..\\SYOS.Server\\Services\\ItemService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:46:50.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.WPF\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.WPF\\Services\\ItemService.cs",
+              "RelativeToolTip": "..\\SYOS.WPF\\Services\\ItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:46:28.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.Server\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "..\\SYOS.Server\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:46:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Singleton\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.Server\\Singleton\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Singleton\\DatabaseConnection.cs",
+              "RelativeToolTip": "..\\SYOS.Server\\Singleton\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:33:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\SYOS.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SYOS-POS\\SYOS.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\SYOS.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:29:48.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

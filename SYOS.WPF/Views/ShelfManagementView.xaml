@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="SYOS.WPF.Views.ShelfManagementView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="Shelf Management" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Shelf Location:" Grid.Row="0" Grid.Column="0" Margin="0,0,10,5"/>
+                <TextBox Text="{Binding ShelfLocation}" Grid.Row="0" Grid.Column="1" Margin="0,0,0,5"/>
+
+                <TextBlock Text="Shelf Quantity:" Grid.Row="1" Grid.Column="0" Margin="0,0,10,5"/>
+                <TextBox Text="{Binding ShelfQuantity}" Grid.Row="1" Grid.Column="1" Margin="0,0,0,5"/>
+
+                <TextBlock Text="Item Code:" Grid.Row="2" Grid.Column="0" Margin="0,0,10,5"/>
+                <TextBox Text="{Binding ItemCode}" Grid.Row="2" Grid.Column="1" Margin="0,0,0,5"/>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" Margin="0,10,0,0">
+                    <Button Content="Add Shelf" Command="{Binding AddShelfCommand}" Width="100" Margin="0,0,10,0"/>
+                    <Button Content="Update Shelf" Command="{Binding UpdateShelfCommand}" Width="100" Margin="0,0,10,0"/>
+                    <Button Content="Delete Shelf" Command="{Binding DeleteShelfCommand}" Width="100" Margin="0,0,10,0"/>
+                    <Button Content="Assign Items" Command="{Binding AssignItemsToShelfCommand}" Width="100"/>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+
+        <DataGrid Grid.Row="1" ItemsSource="{Binding Shelves}" SelectedItem="{Binding SelectedShelf}" 
+                  AutoGenerateColumns="False" Margin="0,20,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Shelf ID" Binding="{Binding ShelfID}" Width="Auto"/>
+                <DataGridTextColumn Header="Shelf Location" Binding="{Binding ShelfLocation}" Width="*"/>
+                <DataGridTextColumn Header="Shelf Quantity" Binding="{Binding ShelfQuantity}" Width="*"/>
+                <DataGridTextColumn Header="Item Code" Binding="{Binding ItemCode}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

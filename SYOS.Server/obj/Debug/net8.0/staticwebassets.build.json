@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OfZZJUBYG6ZPHath2QlSiMWZ+W6w5c6QCL4goozulwE=",
+  "Source": "SYOS.Server",
+  "BasePath": "_content/SYOS.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
