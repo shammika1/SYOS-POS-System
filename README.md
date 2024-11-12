@@ -1,3 +1,3 @@
 # SYOS-POS System
 
-Extract all the zip folders into one main directory and open as a solution
+Copy all the folders into one main directory and open as a solution using Visual Studio
